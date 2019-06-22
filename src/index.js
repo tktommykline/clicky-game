@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Click from "./components/imageclick"
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
